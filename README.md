@@ -54,6 +54,7 @@ The complete design specification is available in the `/docs/design-specs` direc
 2. [Site Structure and Navigation](docs/design-specs/02-site-structure-navigation.md) - Site map and page descriptions
 3. [Wireframes and Mockups](docs/design-specs/03-wireframes-mockups.md) - Detailed UI/UX designs
 4. [Data Models](docs/design-specs/04-data-models.md) - Database schema and relationships
+5. [UX Guidelines & Best Practices](docs/design-specs/05-ux-guidelines.md) - Comprehensive UX guidelines for implementation
 
 ## 🛠️ Technology Stack (Recommended)
 
@@ -120,6 +121,6 @@ Desktop:  1024px+          (Primary: 1440px, 1920px)
 
 ---
 
-**Status**: Design Phase - Specification Complete (Sections 1-4)
+**Status**: Design Phase - Specification Complete (Sections 1-5) ✅
 **Last Updated**: 2025-01-14
 **Version**: 0.1.0-design
