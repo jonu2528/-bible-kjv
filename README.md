@@ -56,6 +56,7 @@ The complete design specification is available in the `/docs/design-specs` direc
 4. [Data Models](docs/design-specs/04-data-models.md) - Database schema and relationships
 5. [UX Guidelines & Best Practices](docs/design-specs/05-ux-guidelines.md) - Comprehensive UX guidelines for implementation
 6. [PWA Implementation](docs/design-specs/06-pwa-implementation.md) - Progressive Web App setup and implementation details
+7. [API Specifications](docs/design-specs/07-api-specifications.md) - Complete REST API documentation with endpoints and schemas
 
 ## 🛠️ Technology Stack (Recommended)
 
@@ -122,6 +123,6 @@ Desktop:  1024px+          (Primary: 1440px, 1920px)
 
 ---
 
-**Status**: Design Phase - Specification Complete (Sections 1-6) ✅
+**Status**: Design Phase - Specification Complete (Sections 1-7) ✅
 **Last Updated**: 2025-01-14
-**Version**: 0.2.0-design
+**Version**: 0.3.0-design
